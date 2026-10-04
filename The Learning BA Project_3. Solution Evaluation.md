@@ -1,16 +1,19 @@
-Link to [[0.2. Understand the Problem]]
-# Question of the area:
+# 3. Solution Evaluation
+> [[0.1. README_The Learning BA Project]]
+
+## Question of the Area
 - Did the solution deliver the value?
-# Purpose
+
+## Purpose
 - Measure how the solution performs, find what limits its value, and recommend improvements.
 
-# BA Task include:
+## BA Tasks Include
 - Set success metrics early.
 - Check them after release.
 - If value is low, find the cause: the solution or the organization.
 - Recommend fixes or next steps.
 
-# Chapters in Wieger's Software Requirement
+## Chapters in Wiegers' Software Requirement
 - Ch. 5 _Establishing the business requirements_
 - Ch. 17 _Validating the requirements_
 - Ch. 21 _Enhancement and replacement projects_

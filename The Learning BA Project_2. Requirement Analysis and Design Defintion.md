@@ -1,14 +1,17 @@
-Link to [[0.2. Understand the Problem]]
-# Question of the area:
+# 2. Requirement Analysis and Design Definition
+> [[0.1. README_The Learning BA Project]]
+
+## Question of the Area
 - What exactly should the solution be?
-# Purpose
+
+## Purpose
 - Specify and model requirements, verify them, define design options, and recommend a solution.
 
-# BA Task include:
+## BA Tasks Include
 - Turn business needs into clear requirements.
 - Make them detailed enough for the team to build.
 
-# Chapters in Wieger's Software Requirement
+## Chapters in Wiegers' Software Requirement
 - Ch. 8 _Understanding user requirements_
 - Ch. 9 _Playing by the rules_
 - Ch. 10 _Documenting the requirements_

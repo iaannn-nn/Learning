@@ -1,16 +1,19 @@
-Link to [[0.2. Understand the Problem]]
-# Question of the area:
+# 6. Requirement Life Cycle Management
+> [[0.1. README_The Learning BA Project]]
+
+## Question of the Area
 - How do I keep requirements organized as they change: tracing, prioritizing, approving?
-# Purpose
+
+## Purpose
 - Trace, maintain, prioritize, assess changes, and approve requirements.
 
-# BA Task include:
+## BA Tasks Include
 - Baseline what is agreed.
 - Check the impact before accepting changes.
 - Link requirements to goals and tests.
 - Re-prioritize as needed.
 
-# Chapters in Wieger's Software Requirement
+## Chapters in Wiegers' Software Requirement
 - Ch. 16 _First things first_
 - Ch. 18 _Requirements reuse_
 - Ch. 27 _Requirements management practices_

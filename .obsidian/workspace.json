@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. README.md",
+                "file": "0.1. README_The Learning BA Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. README"
+              "title": "0.1. README_The Learning BA Project"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. README.md",
+                "file": "0.1. README_The Learning BA Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,14 +233,14 @@
   },
   "active": "f206beb23e799d00",
   "lastOpenFiles": [
-    "README.md",
     "0. README.md",
+    "README.md",
     "0.1. README_The Learning BA Project.md",
+    "0.1. README_The Learning Writing Project.md",
     "0. Personal Notes.md",
     "Z.Vault Structure Guide.md",
     "Polya Fork/0. README.md",
     "Polya Fork/4. The Notes (Lookback).md",
-    "0.1. README_The Learning Writing Project.md",
     "The Learning BA Project_0. Understand the Problem.md",
     "0.2. The Learning BA Project.md",
     "The Learning BA Project_1. Strategy Analysis.md",

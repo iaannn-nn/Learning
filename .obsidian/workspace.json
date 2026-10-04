@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0.1. README_The Learning Writing Project.md",
+                "file": "0. Personal Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0.1. README_The Learning Writing Project"
+              "title": "0. Personal Notes"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0.1. README_The Learning Writing Project.md",
+                "file": "0. Personal Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,13 +233,13 @@
   },
   "active": "f206beb23e799d00",
   "lastOpenFiles": [
+    "0. README.md",
+    "0.1. README_The Learning Writing Project.md",
     "0.1. README_The Learning BA Project.md",
     "README.md",
-    "0. README.md",
     "<README.md",
     "0.2. The Learning BA Project.md",
     "0.2. The Learning Writing Project.md",
-    "0.1. README_The Learning Writing Project.md",
     "The Learning BA Project_0. Understand the Problem.md",
     "0. Personal Notes.md",
     "The Learning BA Project_6. Requirement Life Cycle Management.md",

@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Learning BA Project_6. Requirement Life Cycle Management.md",
+                "file": "0.1. README_The Learning Writing Project.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Learning BA Project_6. Requirement Life Cycle Management"
+              "title": "0.1. README_The Learning Writing Project"
             }
           }
         ],
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Learning BA Project_6. Requirement Life Cycle Management.md",
+                "file": "0.1. README_The Learning Writing Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -233,23 +233,24 @@
   },
   "active": "f206beb23e799d00",
   "lastOpenFiles": [
+    "0.1. README_The Learning BA Project.md",
+    "README.md",
+    "0. README.md",
+    "<README.md",
+    "0.2. The Learning BA Project.md",
+    "0.2. The Learning Writing Project.md",
+    "0.1. README_The Learning Writing Project.md",
+    "The Learning BA Project_0. Understand the Problem.md",
+    "0. Personal Notes.md",
+    "The Learning BA Project_6. Requirement Life Cycle Management.md",
     "The Learning BA Project_5. Elicitation and Collaboration.md",
     "The Learning BA Project_4. Planning and Monitoring.md",
     "The Learning BA Project_3. Solution Evaluation.md",
     "The Learning BA Project_2. Requirement Analysis and Design Defintion.md",
     "The Learning BA Project_1. Strategy Analysis.md",
-    "The Learning BA Project_0. Understand the Problem.md",
-    "0.2. The Learning Writing Project.md",
-    "0.2. The Learning BA Project.md",
-    "0.1. README_The Learning BA Project.md",
-    "0. README.md",
-    "0.1. README_The Learning Writing Project.md",
-    "0. Personal Notes.md",
-    "README.md",
     "Z.Vault Structure Guide.md",
     "Polya Fork/0. README.md",
     "Polya Fork/4. The Notes (Lookback).md",
-    "The Learning BA Project_6. Requirement Life Cycle Management.md",
     "Polya Fork/2. The Project (Devise The Plan).md",
     "Polya Fork/1. Understand the Problem.md",
     "<../0.3. Personal Notes.md",
@@ -267,7 +268,6 @@
     "BA docs/books_for_waterfall_projects.md",
     "BA docs/books_for_BA.md",
     "Raw Data.md",
-    "1. Polya Fork/3. Carry out the plan/4. BA Planning and Monitoring.md",
-    "1. Polya Fork/3. Carry out the plan/3. Solution Evaluation.md"
+    "1. Polya Fork/3. Carry out the plan/4. BA Planning and Monitoring.md"
   ]
 }

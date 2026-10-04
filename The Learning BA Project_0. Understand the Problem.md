@@ -1,5 +1,5 @@
 # 0. Understand the Problem
-> [[0.1. README_The Learning BA Project]]
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 **Created:** 2026-09-29
 **Done:** 2026-10-01

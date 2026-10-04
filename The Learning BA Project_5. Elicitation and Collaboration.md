@@ -1,5 +1,5 @@
 # 5. Elicitation and Collaboration
-> [[0.1. README_The Learning BA Project]]
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 ## Question of the Area
 - How do I get information from people and keep them aligned?

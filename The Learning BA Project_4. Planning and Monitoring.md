@@ -1,5 +1,5 @@
 # 4. BA Planning and Monitoring
-> [[0.1. README_The Learning BA Project]] · 
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 ## Question of the Area
 - How will I organize and improve my own BA work?

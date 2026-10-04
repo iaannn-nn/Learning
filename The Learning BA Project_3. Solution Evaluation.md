@@ -1,5 +1,5 @@
 # 3. Solution Evaluation
-> [[0.1. README_The Learning BA Project]]
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 ## Question of the Area
 - Did the solution deliver the value?

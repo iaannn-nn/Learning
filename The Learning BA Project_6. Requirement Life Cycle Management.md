@@ -1,5 +1,5 @@
 # 6. Requirement Life Cycle Management
-> [[0.1. README_The Learning BA Project]]
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 ## Question of the Area
 - How do I keep requirements organized as they change: tracing, prioritizing, approving?

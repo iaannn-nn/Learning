@@ -1,5 +1,5 @@
 # 1. Strategy Analysis
-> [[0.1. README_The Learning BA Project]]
+>  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
 ## Question of the Area
 - What is the need, and is the change worth it?

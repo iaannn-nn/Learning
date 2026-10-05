@@ -46,7 +46,7 @@
 
 - **BABOK:** understand the current state, define the future state, assess risks, and justify the change.
 - **Wiegers:** start with business requirements — objectives, problems, opportunities, and scope. Prioritize by value, cost, and risk.
-- **Software Requirement Joggers** : Chap 8.
+- **Software Requirement Joggers** : Chap 2.
 - **Practical:** understand the problem and goal before choosing a solution; check that the benefits are worth the cost.
 - **Chapters:** Ch. 5 _Establishing the business requirements_
 
@@ -73,7 +73,7 @@
 
 - **BABOK:** plan the BA approach, stakeholder engagement, governance, and information management. Improve BA performance over time.
 - **Wiegers:** spread across several chapters — good practices, the BA role, planning, risk, and process improvement.
-- **Software Requirement Joggers** : Chap 2
+- **Software Requirement Joggers** : Chap 8
 - **Practical:** plan how you will do BA work; agree on who approves requirements and changes; review and improve your process regularly.
 - **Chapters:** Ch. 3, 4, 19, 23, 31, 32
 

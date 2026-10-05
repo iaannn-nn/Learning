@@ -1,96 +1,207 @@
 # 4. BA Planning and Monitoring
 >  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
-## Question of the Area
-- How will I organize and improve my own BA work?
+## Software Requirement Joggers
 
-## Purpose
-- plan the BA approach, stakeholder engagement, governance, and information management.
-- Improve BA performance over time.
+> **Chapter 8: Adapting Requirements Practices to Projects**
 
-## BA Tasks Include
-- Plan how you will do BA work.
-- Agree on who approves requirements and changes.
-- Review and improve your process regularly.
-
-## Chapters in Software Requirement Jogger
-*(not yet filled in)*
-
-## Chapters in Wiegers' Software Requirement
-- Ch. 3 _Good practices for requirements engineering_
-- Ch. 4 _The business analyst_
-- Ch. 19 _Beyond requirements development_
-- Ch. 23 _Outsourced projects_
-- Ch. 31 _Improving your requirements processes_
-- Ch. 32 _Software requirements and risk management_
+### Project Types
+The BA approach is depends on two considerations:
+- (1) the project types
+- (2) where the project is change driven or risk-driven
+- There are 3 main project types:
+	- **New Development**, which is to create new software
+		- ==aka: greenfield development, custom development==
+	- **Maintenance**: 
+		- **Enhancement**, which is to add functionality to an existing software product
+			- ==aka: continuing engineering
+		- **Correction,** which is to fix problems affecting the quality or correctness of the existing software
+			- ==aka: maintenance; fix; defect correction
+		- **Adaptation**, which is to move existing software to a new technical environment
+			- ==aka: Technical migration
+	- **Commercial Off-the-Shelf,** which is to replace existing software, business processes, or both by acquiring existing software components rather than develop a new one
+		- ==aka: packaged solutions, software package, vendor components==
+- Each project type has their own suggested analysis models and requirements-related documentation due to their own nature. 
+	- The analysis models and requirement-related documentation's detail has been already mentioned in previous chapters of the book: 1,2,3,4,5,6,7
+### Change-Driven vs Risk Driven Projects
+- Risk driven: 
+	- critical systems in which failures can be resulted in business-, mission-, or safety critcal
+	- often have stable req and large team, even geographically distributed 
+- Change driven:
+	- tend toward developing or acquiring software that poses less risk and complexity
+	- more-volatile requirements and smaller team
 
 ---
-
+# BABOK
 ## 1. Plan Business Analysis Approach
-
-### Purpose
-- to determine on how task will be performed
-- to determine on when the tasks will be performed
-- to determine on which deliverables that will be produced
-
-### Goal
-- The BA approach should:
-	- align to the overall goals of the change
-	- coordinate the BA task with the activities and deliverables of the overall change
-	- include task to manage any risks
-	- leverage approaches and techniques or tools that have historically work well.
-
-### Inputs for This Task
-- Need: the approach is shaped by the problem and opportunity
-
-### Elements for This Task
-- Planning Approach:
-	- ==Predictive Approaches==
-		- Minimize **upfront uncertainty**.
-		- Define the solution **before implementation** begins.
-		- Aim to maximize **control** and minimize **risk**.
-		- Best suited when:
-		    - Requirements can be clearly defined in advance.
-		    - The risk of incorrect implementation is unacceptably high.
-		    - Engaging stakeholders is difficult.
-	- ==Adaptive Approaches==
-		- Focus on **rapid delivery of business value**.
-		- Deliver solutions through **short, iterative cycles**
-		- Accept a higher level of **uncertainty** about the overall solution.
-		- Best suited when:
-		    - Exploring to find the **best solution**.
-		    - Making **incremental improvements** to an existing solution.
-- Formality and Detail Level of BA Deliverables
-- BA Activities
-- Timing of BA Work
-
-### Guideline and Tools
-- Previous Assessment/Feedback
-- Business Policies
-- Expert Judgement
-- Methodologies and Frameworks
-- Stakeholder Engagement Approach
-
-### Techniques
-- As in BABOK
-
-### Stakeholder
-- Domain Expert
-- Project Manager
-- Regulator (QA)
-- Sponsor
-
-### Outputs
-- BA Approach: Finalize the listed item as in Elements
-
+- **Purpose:**
+	- to determine on how task will be performed
+	- to determine on when the tasks will be performed
+	- to determine on which deliverables that will be produced
+- **Goal:**
+	- The BA approach should:
+		- align to the overall goals of the change
+		- coordinate the BA task with the activities and deliverables of the overall change
+		- include task to manage any risks
+		- leverage approaches and techniques or tools that have historically work well.
+- **Inputs for This Task**
+	- Need: the approach is shaped by the problem and opportunity
+- **Elements for This Task**
+	- Planning Approach:
+		- Predictive Approaches
+		- Adaptive Approaches
+	- Formality and Detail Level of BA Deliverables
+	- BA Activities
+	- Timing of BA Work
+- **Guideline and Tools**
+	- Previous Assessment/Feedback
+	- Business Policies
+	- Expert Judgement
+	- Methodologies and Frameworks
+	- Stakeholder Engagement Approach
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator (QA)
+	- Sponsor
+- **Outputs**
+	- BA Approach: Finalize the listed item as in Elements
 ## 2. Plan Stakeholder Engagement
-*(TODO)*
+- **Purpose:**
+	- to plan an approach for establishing and maintaining effective working relationships with stakeholders
+- **Goal:**
+	- The stakeholder engagement approach should:
+		- ensure stakeholders are appropriately informed and involved throughout the initiative
+		- increase support for the change and minimize resistance
+		- account for stakeholders' needs for communication and collaboration
+- **Inputs for This Task**
+	- Need: the approach is shaped by who is affected by and who can affect the change
+	- BA Approach (output of Task 1)
+- **Elements for This Task**
+	- Perform Stakeholder Analysis:
+		- Identify Stakeholders
+		- Conduct Stakeholder Analysis (influence, authority level, attitude, complexity)
+	- Define Stakeholder Collaboration
+	- Determine Stakeholder Engagement Approach (how/when to communicate with each stakeholder)
+- **Guideline and Tools**
+	- Business Analysis Approach
+	- Business Objectives
+	- Change Strategy
+	- Organizational Culture and Process Assets
+	- Stakeholder List, Roles, and Responsibilities
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- End User
+	- Project Manager
+	- Sponsor
+	- All stakeholders affected by or interested in the change
+- **Outputs**
+	- Stakeholder Engagement Approach: understanding of the stakeholders and the best approach to work with them
 
 ## 3. Plan Business Analysis Governance
-*(TODO)*
+- **Purpose:**
+	- to define how decisions are made about requirements and designs, including reviews, change control, approvals, and prioritization
+- **Goal:**
+	- The governance approach should:
+		- clarify who has authority to make decisions and how those decisions are made
+		- ensure a consistent and transparent process for managing changes to requirements and designs
+		- support prioritization of requirements/designs in line with business value and risk
+- **Inputs for This Task**
+	- Need
+	- BA Approach (output of Task 1)
+	- Stakeholder Engagement Approach (output of Task 2)
+- **Elements for This Task**
+	- Decision Making: who is involved, and the process used (consensus, authoritative, voting)
+	- Change Control Process: how proposed changes to requirements/designs are assessed and approved
+	- Plan Business Analysis Information Management Process (linkage to Task 4)
+	- Prioritization Process: criteria used to prioritize requirements and designs
+	- Business Analysis Deliverable Approval Process: who signs off and when
+- **Guideline and Tools**
+	- Business Analysis Approach
+	- Business Policies
+	- Governance Approach for the Initiative (if one already exists at the organizational level)
+	- Legal/Regulatory Information
+	- Organizational Culture and Process Assets
+	- Stakeholder Engagement Approach
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Regulator (QA)
+	- Sponsor
+- **Outputs**
+	- Governance Approach: approach for how decisions are made, including change control, prioritization, and approvals
 
 ## 4. Plan Business Analysis Information Management
-*(TODO)*
+- **Purpose:**
+	- to develop an approach for how business analysis information (requirements and designs) will be organized, stored, accessed, and reused throughout the initiative
+- **Goal:**
+	- The information management approach should:
+		- maintain business analysis information in a reusable and traceable manner
+		- ensure information is captured at the right level of abstraction and formality
+		- support future needs for reuse, audit, and traceability
+- **Inputs for This Task**
+	- Need
+	- BA Approach (output of Task 1)
+	- Governance Approach (output of Task 3)
+	- Stakeholder Engagement Approach (output of Task 2)
+- **Elements for This Task**
+	- Information Organization: how requirements are structured, grouped, or categorized
+	- Level of Abstraction: the appropriate amount of detail for the audience
+	- Plan for Requirements Reuse: traceability to support reuse across initiatives
+	- Storage and Access: tools, repositories, and access rights
+	- Requirements Attributes: metadata tracked for each requirement (e.g. status, priority, source)
+- **Guideline and Tools**
+	- Business Analysis Approach
+	- Formality and Level of Detail
+	- Governance Approach
+	- Information Management Tools and Standards
+	- Organizational Culture and Process Assets
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator (QA)
+	- Sponsor
+- **Outputs**
+	- Information Management Approach: approach for managing business analysis information throughout the initiative
 
 ## 5. Identify Business Analysis Performance Improvements
-*(TODO)*
+- **Purpose:**
+	- to assess business analysis work performed and recommend actionable improvements
+- **Goal:**
+	- The performance assessment should:
+		- measure performance of BA work against the planned approach
+		- identify the root cause of performance issues
+		- produce recommendations that can be acted upon to improve future BA performance
+- **Inputs for This Task**
+	- Need
+	- BA Performance Metrics
+	- Governance Approach (output of Task 3)
+	- Organizational Performance Standards
+- **Elements for This Task**
+	- Performance Analysis: compare planned vs. actual BA performance
+	- Assessment Measures: metrics and KPIs used to measure BA performance
+	- Identify Performance Issues and Root Causes
+	- Recommend Actions for Improvement
+- **Guideline and Tools**
+	- Business Analysis Performance Metrics
+	- Business Analysis Performance Standards
+	- Organizational Performance Standards
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator (QA)
+	- Sponsor
+- **Outputs**
+	- Business Analysis Performance Assessment: analysis of BA performance, root causes of issues, and recommendations for improvement

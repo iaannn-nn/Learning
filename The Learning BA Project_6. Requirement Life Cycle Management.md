@@ -1,22 +1,140 @@
 # 6. Requirement Life Cycle Management
 >  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
-## Question of the Area
-- How do I keep requirements organized as they change: tracing, prioritizing, approving?
+## BABOK
+## 1. Trace Requirements
+- **Purpose:**
+	- to manage the life cycle of requirements and designs by analyzing and maintaining the relationships between associated requirements, designs, and other work products, and to assess the impact of change
+- **Goal:**
+	- The traceability approach should:
+		- determine the relationships between requirements, designs, and other artifacts
+		- select and maintain a traceability repository
+		- enable analysis of coverage and impact of change
+- **Inputs for This Task**
+	- Requirements (various levels)
+	- Designs
+- **Elements for This Task**
+	- Determine Relationships Among Requirements/Designs (derive, depend, spawn, etc.)
+	- Select/Maintain Traceability Repository
+	- Analyze Relationships for Coverage/Impact
+- **Guideline and Tools**
+	- Information Management Approach
+	- Legal/Regulatory Information
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Tester
+- **Outputs**
+	- Requirements (traced)
 
-## Purpose
-- Trace, maintain, prioritize, assess changes, and approve requirements.
+## 2. Maintain Requirements
+- **Purpose:**
+	- to retain requirements accuracy and consistency throughout and beyond the change during the entire requirements life cycle, and to support reuse of requirements in other solutions
+- **Goal:**
+	- The maintained requirements should:
+		- remain correct, current, and usable throughout and beyond the change
+		- be kept up to date in attributes and status
+- **Inputs for This Task**
+	- Requirements (traced, output of Task 1)
+	- Designs
+- **Elements for This Task**
+	- Maintain Requirements for Ongoing Use/Reuse
+	- Update Requirement Attributes and Status
+- **Guideline and Tools**
+	- Information Management Approach
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+- **Outputs**
+	- Requirements (maintained)
 
-## BA Tasks Include
-- Baseline what is agreed.
-- Check the impact before accepting changes.
-- Link requirements to goals and tests.
-- Re-prioritize as needed.
+## 3. Prioritize Requirements
+- **Purpose:**
+	- to rank requirements in the order of relative importance to stakeholders
+- **Goal:**
+	- The prioritization should:
+		- establish the basis for prioritization (value, urgency, risk, difficulty, dependency)
+		- work with stakeholders to resolve conflicting priorities
+		- be revisited continually throughout the requirements life cycle
+- **Inputs for This Task**
+	- Requirements (verified/validated, from Requirements Analysis and Design Definition)
+	- Designs
+- **Elements for This Task**
+	- Basis for Prioritization (value, urgency, risk, difficulty, dependency)
+	- Challenges in Prioritization (conflicting stakeholder views)
+	- Continual Prioritization Throughout the Life Cycle
+- **Guideline and Tools**
+	- Governance Approach
+	- Legal/Regulatory Information
+	- Risk Analysis Results
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Requirements (prioritized)
 
-## Chapters in Wiegers' Software Requirement
-- Ch. 16 _First things first_
-- Ch. 18 _Requirements reuse_
-- Ch. 27 _Requirements management practices_
-- Ch. 28 _Change happens_
-- Ch. 29 _Links in the requirements chain_
-- Ch. 30 _Tools for requirements engineering_
+## 4. Assess Requirements Changes
+- **Purpose:**
+	- to evaluate the implications of proposed changes to requirements and designs
+- **Goal:**
+	- The assessment should:
+		- identify the proposed change and its source
+		- analyze the impact of the change on existing requirements/designs
+		- determine the formality level needed for assessment
+- **Inputs for This Task**
+	- Proposed Change
+	- Requirements (traced and prioritized)
+- **Elements for This Task**
+	- Assess/Identify the Proposed Change
+	- Analyze Impact of Change (formal/informal)
+	- Determine Formality Level of Assessment
+- **Guideline and Tools**
+	- Governance Approach
+	- Information Management Approach
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Sponsor
+- **Outputs**
+	- Requirements Change Assessment
+
+## 5. Approve Requirements
+- **Purpose:**
+	- to obtain agreement on and approval of requirements and designs for the purpose of ensuring stakeholder buy-in on the requirements and designs
+- **Goal:**
+	- The approval process should:
+		- clarify stakeholder roles in the approval process
+		- resolve conflicts or issues before approval
+		- gain consensus and formal sign-off on requirements/designs
+- **Inputs for This Task**
+	- Requirements (prioritized, output of Task 3)
+	- Designs
+- **Elements for This Task**
+	- Understand Stakeholder Roles in Approval
+	- Conflict/Issue Resolution
+	- Gain Consensus/Approval Sign-off
+- **Guideline and Tools**
+	- Governance Approach
+	- Stakeholder Engagement Approach
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Sponsor
+- **Outputs**
+	- Requirements (approved)

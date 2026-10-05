@@ -1,0 +1,37 @@
+
+> [Projects Hub](<0. README.md>)
+# The (Project Name) Project
+- Provides an overview of the project to the reader
+
+>*Eg: A self-study log for mastering Business Analysis (BA) methods — learned from books, not improvised, so they can be explained confidently and concisely. Scope: the BA *method* only (no tools, no PM).*
+
+## Contents
+- Provides all index links of the project to the reader
+
+> *Eg:
+> - **[Overview & Plan](<0.2. The Learning BA Project.md>)** — why, goal, strategy, study timeline
+> - **[Understand the Problem](<The Learning BA Project_0. Understand the Problem.md>)** — core definitions, BABOK vs. Wiegers
+> - **Knowledge Areas**:
+> 	- [1. Strategy Analysis](<The Learning BA Project_1. Strategy Analysis.md>) 
+> 	- [2. Requirement Analysis & Design Definition](<The Learning BA Project_2. Requirement Analysis and Design Defintion.md>) 
+> 	- [3. Solution Evaluation](<The Learning BA Project_3. Solution Evaluation.md>)
+> 	- [4. Planning and Monitoring](<The Learning BA Project_4. Planning and Monitoring.md>)
+> 	- [5. Elicitation and Collaboration](<The Learning BA Project_5. Elicitation and Collaboration.md>) 
+> 	- [6. Requirement Life Cycle Management](<The Learning BA Project_6. Requirement Life Cycle Management.md>)
+> - **[Polya Fork](<Polya Fork/0. README.md>)** — same material, reorganized by Polya's 4 problem-solving steps
+> - **[Work Log](<0. Personal Notes.md>)** — dated journal, shared across vault projects
+
+## Sources
+- Provides all refence source of the project to the reader
+
+> *Eg:*
+> *- BABOK (framework)*
+> *- Software Requirements Memory Jogger (checklist)* 
+> *- Karl Wiegers' Software Requirements (practical depth)* 
+> *- Visual Models by Joy Beatty (diagrams)*
+
+## Status
+- Date started
+
+>*Eg:*
+*Started 2026-09-29 · Study order `4 → 5 → 6 → 1 → 2 → 3` ·* 

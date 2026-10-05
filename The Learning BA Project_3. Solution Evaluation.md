@@ -1,20 +1,140 @@
-# 3. Solution Evaluation
+	# 3. Solution Evaluation
 >  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
-## Question of the Area
-- Did the solution deliver the value?
+## BABOK
+## 1. Measure Solution Performance
+- **Purpose:**
+	- to define performance measures and use the resulting information to determine how well a solution is performing in the context of the enterprise and in comparison with expectations
+- **Goal:**
+	- The solution performance measures should:
+		- define appropriate measures aligned with business goals and objectives
+		- collect accurate performance data on the deployed solution
+- **Inputs for This Task**
+	- Solution (deployed)
+	- Future State Description (from Strategy Analysis)
+- **Elements for This Task**
+	- Identify/Define Performance Measures
+	- Collect Performance Data
+- **Guideline and Tools**
+	- Business Objectives
+	- Business Case
+	- Metrics and KPI Standards
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- End User
+	- Operational Support
+	- Sponsor
+- **Outputs**
+	- Solution Performance Measures
 
-## Purpose
-- Measure how the solution performs, find what limits its value, and recommend improvements.
+## 2. Analyze Performance Measures
+- **Purpose:**
+	- to gain insights into solution value as realized by the implementation of a recommended solution, and determine whether the solution is delivering the expected value
+- **Goal:**
+	- The performance analysis should:
+		- identify patterns and trends in performance data
+		- validate and report on the results
+		- compare actual value delivered against expected value
+- **Inputs for This Task**
+	- Solution Performance Measures (output of Task 1)
+	- Future State Description
+- **Elements for This Task**
+	- Identify Patterns and Trends
+	- Validate/Report Results
+	- Analyze Value (actual vs. expected)
+- **Guideline and Tools**
+	- Business Objectives
+	- Benchmarking Data
+	- Organizational Performance Standards
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Solution Performance Analysis
 
-## BA Tasks Include
-- Set success metrics early.
-- Check them after release.
-- If value is low, find the cause: the solution or the organization.
-- Recommend fixes or next steps.
+## 3. Assess Solution Limitations
+- **Purpose:**
+	- to determine how well a solution is fulfilling business goals and objectives and to identify what internal factors are limiting the full realization of value, both now and in the future
+- **Goal:**
+	- The assessment should:
+		- identify solution limitations (defects, performance variances, usability issues)
+		- analyze the root causes of these limitations
+		- recommend actions to address them
+- **Inputs for This Task**
+	- Solution Performance Analysis (output of Task 2)
+- **Elements for This Task**
+	- Identify Solution Limitations
+	- Assess Defects/Problems
+	- Analyze/Identify Root Causes
+- **Guideline and Tools**
+	- Solution Performance Measures
+	- Defect/Issue Logs
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- End User
+	- Operational Support
+	- Project Manager
+- **Outputs**
+	- Solution Limitations (with recommended actions)
 
-## Chapters in Wiegers' Software Requirement
-- Ch. 5 _Establishing the business requirements_
-- Ch. 17 _Validating the requirements_
-- Ch. 21 _Enhancement and replacement projects_
-- Ch. 22 _Packaged solution projects_
+## 4. Assess Enterprise Limitations
+- **Purpose:**
+	- to identify and analyze enterprise (external to the solution) factors that are constraining the full realization of value from the solution and to recommend a course of action to remove or adjust these constraints
+- **Goal:**
+	- The assessment should:
+		- identify enterprise limitations (culture, process, structure, technology)
+		- analyze the root causes of these limitations
+		- identify actions to address the limitations
+- **Inputs for This Task**
+	- Solution Performance Analysis (output of Task 2)
+	- Current State Description (from Strategy Analysis)
+- **Elements for This Task**
+	- Identify Enterprise Limitations
+	- Analyze Root Causes
+	- Identify Actions to Address Limitations
+- **Guideline and Tools**
+	- Organizational Culture and Process Assets
+	- Business Policies
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Operational Support
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Enterprise Limitations (with recommended actions)
+
+## 5. Recommend Actions to Increase Solution Value
+- **Purpose:**
+	- to detect patterns and trends, and to elicit and analyze the information needed to recommend a course of action to increase the value delivered by a solution
+- **Goal:**
+	- The recommendation should:
+		- analyze the results of solution and enterprise limitation assessments
+		- identify and recommend actions (adjust, replace, or retire the solution) to increase realized value
+- **Inputs for This Task**
+	- Solution Limitations (output of Task 3)
+	- Enterprise Limitations (output of Task 4)
+- **Elements for This Task**
+	- Analyze Results
+	- Identify and Recommend Actions to Increase Solution Value
+- **Guideline and Tools**
+	- Business Case
+	- Business Objectives
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Recommended Actions to Increase Solution Value

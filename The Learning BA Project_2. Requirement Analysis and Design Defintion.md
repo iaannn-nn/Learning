@@ -1,22 +1,177 @@
 # 2. Requirement Analysis and Design Definition
 >  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
-## Question of the Area
-- What exactly should the solution be?
+## BABOK
+## 1. Specify and Model Requirements
+- **Purpose:**
+	- to analyze, synthesize, and refine elicitation results into requirements and designs so stakeholders can review and approve them
+- **Goal:**
+	- The specified/modelled requirements should:
+		- represent requirements and designs using text, matrices, and/or models suited to the audience
+		- analyze and structure expressed requirements into more detailed, specific requirements
+		- select the appropriate level of formality and representation technique for the situation
+- **Inputs for This Task**
+	- Elicitation Results (confirmed, from Elicitation and Collaboration)
+- **Elements for This Task**
+	- Analyze Expressed Requirements
+	- Requirements Representation: Text
+	- Requirements Representation: Matrices and Tables
+	- Requirements Representation: Models/Diagrams
+- **Guideline and Tools**
+	- Information Management Approach
+	- Modelling Notations and Standards
+	- Legal/Regulatory Information
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Implementation SME
+	- Project Manager
+	- Regulator
+	- Tester
+- **Outputs**
+	- Requirements (specified and modelled)
+	- Designs (specified and modelled)
 
-## Purpose
-- Specify and model requirements, verify them, define design options, and recommend a solution.
+## 2. Verify Requirements
+- **Purpose:**
+	- to ensure that requirements and designs specifications and models meet the necessary standard of quality to allow them to be used effectively to guide further work
+- **Goal:**
+	- Verified requirements should be:
+		- cohesive, complete, consistent, correct, and feasible
+		- modifiable, unambiguous, and testable
+		- free of defects before being passed on for validation or implementation
+- **Inputs for This Task**
+	- Requirements (specified and modelled, from Task 1)
+	- Designs (specified and modelled, from Task 1)
+- **Elements for This Task**
+	- Characteristics of Requirements Quality
+	- Verification Activities (structured walkthroughs, checklists, peer reviews)
+- **Guideline and Tools**
+	- Information Management Approach
+	- Requirements Management Tool/Standards
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Tester
+- **Outputs**
+	- Requirements (verified)
 
-## BA Tasks Include
-- Turn business needs into clear requirements.
-- Make them detailed enough for the team to build.
+## 3. Validate Requirements
+- **Purpose:**
+	- to ensure that all requirements and designs align to the business requirements and support the delivery of needed value to stakeholders
+- **Goal:**
+	- The validated requirements should:
+		- identify the expected benefits of the requirement/design in relation to the business goals
+		- define measurable evaluation criteria for successful implementation
+		- identify assumptions made during analysis
+- **Inputs for This Task**
+	- Requirements (verified, from Task 2)
+	- Designs
+- **Elements for This Task**
+	- Identify Assumptions
+	- Define Measurable Evaluation Criteria
+	- Validate alignment with Business Goals and Objectives
+- **Guideline and Tools**
+	- Business Objectives
+	- Business Case
+	- Future State Description
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- End User
+	- Sponsor
+- **Outputs**
+	- Requirements (validated)
 
-## Chapters in Wiegers' Software Requirement
-- Ch. 8 _Understanding user requirements_
-- Ch. 9 _Playing by the rules_
-- Ch. 10 _Documenting the requirements_
-- Ch. 11 _Writing excellent requirements_
-- Ch. 12 _A picture is worth 1024 words_
-- Ch. 13 _Specifying data requirements_
-- Ch. 14 _Beyond functionality_
-- Ch. 17 _Validating the requirements_
+## 4. Define Requirements Architecture
+- **Purpose:**
+	- to ensure that requirements, at all levels, work together to support one another in order to fully achieve the objectives defined by stakeholders, without gaps or inconsistencies
+- **Goal:**
+	- The requirements architecture should:
+		- define appropriate viewpoints and views for presenting requirements to relevant stakeholders
+		- ensure requirements collectively support each other and the business objectives
+		- verify completeness of coverage across the requirements set
+- **Inputs for This Task**
+	- Requirements (specified and modelled, from Task 1)
+	- Concepts and Relationships
+- **Elements for This Task**
+	- Requirements Viewpoints and Views
+	- Requirements Relationships and Dependencies
+	- Requirements Coverage (completeness checking)
+- **Guideline and Tools**
+	- Information Management Approach
+	- Legal/Regulatory Information
+	- Business Architecture
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator
+- **Outputs**
+	- Requirements Architecture
+
+## 5. Define Design Options
+- **Purpose:**
+	- to identify and explore various solution options that could meet the business need, so that a recommendation can be made on the most viable approach
+- **Goal:**
+	- The design options should:
+		- identify potential solution approaches
+		- allocate requirements across solution components
+		- perform a gap analysis of each option against the requirements
+- **Inputs for This Task**
+	- Requirements Architecture (output of Task 4)
+	- Current State Description, Future State Description (from Strategy Analysis)
+- **Elements for This Task**
+	- Identify Solution Approaches
+	- Allocate Requirements across Solution Components
+	- Identify Solution Options
+	- Perform Gap Analysis on Options
+- **Guideline and Tools**
+	- Business Constraints
+	- Change Strategy
+	- Solution Scope
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Implementation SME
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Design Options
+
+## 6. Analyze Potential Value and Recommend Solution
+- **Purpose:**
+	- to estimate the potential value that could be realized through each design option, compare the options, and recommend the best option
+- **Goal:**
+	- The recommendation should:
+		- estimate potential value for each design option
+		- compare options on cost, benefit, and risk
+		- recommend the solution option that best meets the business need
+- **Inputs for This Task**
+	- Design Options (output of Task 5)
+	- Future State Description, Risk Analysis Results (from Strategy Analysis)
+- **Elements for This Task**
+	- Estimate Potential Value for Each Option
+	- Compare Options
+	- Recommend the Solution Option
+- **Guideline and Tools**
+	- Business Case
+	- Financial/Valuation Methods
+	- Organizational Performance Standards
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Recommended Solution

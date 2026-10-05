@@ -48,8 +48,8 @@ In `0. Personal Notes.md`:
 
 ## Adding a New Project
 
-1. Create `0.2. <New Project Name>.md` — the overview/plan.
-2. Create `0.1. README_<New Project Name>.md` — the project README, and link it back from the overview file.
-3. Create `<New Project Name>_0. Understand the Problem.md`, then `_1.`, `_2.`, … for content.
-4. Link the new project's README from the root `0. README.md`.
+1. Create `0.2. <New Project Name>.md` — the overview/plan, using template [[TEMPLATE_0.2_PROJECT]]
+2. Create `0.1. README_<New Project Name>.md` — the project README, using template [[TEMPLATE_0.1_PROJECT_README]]
+3. Create `<New Project Name>_0. Understand the Problem.md`, then `_1.`, `_2.`, … for content, using template [[TEMPLATE_UNDERSTAND_ THE_PROBLEM]]
+4. Add the new project's README from the root `0. README.md`.
 5. Log daily progress in the shared `0. Personal Notes.md`, under a `## Topic:` line referencing the project.

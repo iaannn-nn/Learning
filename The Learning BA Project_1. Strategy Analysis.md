@@ -1,15 +1,135 @@
 # 1. Strategy Analysis
 >  [0.1. README_The Learning BA Project](<0.1. README_The Learning BA Project.md>)
 
-## Question of the Area
-- What is the need, and is the change worth it?
+## BABOK
+## 1. Analyze Current State
+- **Purpose:**
+	- to understand the reasons why the enterprise needs to change some aspect of how it currently operates and to understand how the current state relates to the business need
+- **Goal:**
+	- The current state description should:
+		- identify the business need driving the change
+		- understand the current state of the enterprise (structure, culture, capabilities, processes, technology, policies)
+		- provide context for assessing future state options
+- **Inputs for This Task**
+	- Need: the trigger prompting examination of the current state
+- **Elements for This Task**
+	- Business Needs
+	- Organizational Structure and Culture
+	- Capabilities and Processes
+	- Technology and Infrastructure
+	- Policies
+	- Business Architecture
+	- Internal Assets
+	- Solutions (existing)
+- **Guideline and Tools**
+	- Business Analysis Approach
+	- Business Analysis Performance Assessment
+	- Business Constraints
+	- Organizational Performance Standards
+	- Organizational Strategy
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- End User
+	- Operational Support
+	- Project Manager
+	- Regulator
+	- Sponsor
+- **Outputs**
+	- Current State Description: context for why the change is needed and what will be affected
 
-## Purpose
-- Understand the current state, define the future state, assess risks, and justify the change.
+## 2. Define Future State
+- **Purpose:**
+	- to determine the set of necessary conditions needed to meet the business need
+- **Goal:**
+	- The future state description should:
+		- define goals and objectives that demonstrate the value delivered by achieving the future state
+		- determine the scope of the solution space and the change
+		- identify assumptions, constraints, and risks associated with the future state
+- **Inputs for This Task**
+	- Current State Description (output of Task 1)
+- **Elements for This Task**
+	- Business Goals and Objectives
+	- Scope of Solution Space
+	- Potential Value
+	- Assumptions and Constraints
+	- Risks introduced by the future state
+- **Guideline and Tools**
+	- Current State Description
+	- Business Objectives
+	- Business Constraints
+	- Organizational Strategy
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Sponsor
+- **Outputs**
+	- Future State Description: the goals, objectives and scope needed to address the business need
 
-## BA Tasks Include
-- Understand the problem and goal before choosing a solution.
-- Check that the benefits are worth the cost.
+## 3. Assess Risks
+- **Purpose:**
+	- to understand the undesirable consequences of internal and external forces on the enterprise during the transition to, or after reaching, the future state
+- **Goal:**
+	- The risk assessment should:
+		- identify and analyze risks that could affect the ability to transition successfully
+		- evaluate the likelihood and impact of each identified risk
+		- recommend actions to manage, mitigate, or accept risk
+- **Inputs for This Task**
+	- Current State Description (output of Task 1)
+	- Future State Description (output of Task 2)
+- **Elements for This Task**
+	- Risk Identification
+	- Risk Analysis (likelihood and impact)
+	- Risk Tolerance of the organization and stakeholders
+	- Risk Mitigation, Management, or Acceptance Actions
+- **Guideline and Tools**
+	- Business Constraints
+	- Business Analysis Performance Assessment
+	- Organizational Risk Tolerance
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Domain Expert
+	- Project Manager
+	- Regulator
+	- Sponsor
+- **Outputs**
+	- Risk Analysis Results: identified risks and recommended actions to manage them
 
-## Chapters in Wiegers' Software Requirement
-- Ch. 5 _Establishing the business requirements_
+## 4. Define Change Strategy
+- **Purpose:**
+	- to define a change strategy that details how the enterprise will transition from the current state to the future state
+- **Goal:**
+	- The change strategy should:
+		- identify the gaps between current and future state
+		- assess and compare the options available for achieving the future state
+		- select and justify the optimal change strategy, including transition states if needed
+- **Inputs for This Task**
+	- Current State Description (output of Task 1)
+	- Future State Description (output of Task 2)
+	- Risk Analysis Results (output of Task 3)
+- **Elements for This Task**
+	- Gap Analysis
+	- Assessment of Change Strategy Options
+	- Change Strategy Selection and Justification
+	- Transition States / Release Approach (if a phased transition is used)
+- **Guideline and Tools**
+	- Business Case
+	- Business Constraints
+	- Organizational Culture and Process Assets
+	- Risk Analysis Results
+- **Techniques**
+	- As in BABOK
+- **Stakeholder**
+	- Customer
+	- Domain Expert
+	- Project Manager
+	- Sponsor
+- **Outputs**
+	- Change Strategy: the recommended approach to transition the enterprise from current to future state

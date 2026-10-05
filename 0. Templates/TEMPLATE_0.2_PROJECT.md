@@ -17,7 +17,7 @@
 - from my evaluation of big picture which is my strategy => I am able to set up my Priority to find my WHAT effectively
 
 ## The plan 
-- Provide my plan with estimated effort and  timeline ([[0.2. The Learning BA Project#The plan to master BA method through books]])
+- Provide my plan with estimated effort and  timeline ([The Plan to Master BA Method Through Books](<../0.2. The Learning BA Project.md#the-plan-to-master-ba-method-through-books>))
 
 ## Actual Learning Notes 
 - List all links of the actual Learning Notes

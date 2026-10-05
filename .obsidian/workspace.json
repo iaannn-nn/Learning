@@ -42,12 +42,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Personal Notes.md",
+                "file": "0. README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. Personal Notes"
+              "title": "0. README"
             }
           }
         ],
@@ -130,8 +130,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -242,11 +241,13 @@
   },
   "active": "5012ee6b6389ceb1",
   "lastOpenFiles": [
-    "0.2. The Learning BA Project.md",
-    "0. Quick Links.md",
-    "The Learning BA Project_4. Planning and Monitoring.md",
     "0. Personal Notes.md",
     "0. README.md",
+    "0. Quick Links.md",
+    "The Learning BA Project_4. Planning and Monitoring.md",
+    "<The Learning BA Project_4. Planning and Monitoring.md",
+    "The.md",
+    "0.2. The Learning BA Project.md",
     "The Learning BA Project_Conclusion.md",
     "0.1. README_The Learning BA Project.md",
     "The Learning BA Project_5. Elicitation and Collaboration.md",
@@ -267,8 +268,6 @@
     "0. Templates/TEMPLATE_0.2_PROJECT.md",
     "0. Templates/TEMPLATE_LEARNING_NOTE.md",
     "0.2. The Learning Writing Project.md",
-    "0.1. README_The Learning Writing Project.md",
-    "Polya Fork/0. README.md",
     "0. Templates",
     "<..",
     "Z.Vault Structure Guide.md.tmp.1776.4439af16ea19",

@@ -15,7 +15,7 @@
 ## The BA Step-by-Step 
 # Step 1: Planning and Monitoring
 - **First of all**, we need to have a plan and have a method to monitor our own BA Work when we are assigned to a project 
-- ==(Refer to Software Jogger's Chapter 8)== and [[The Learning BA Project_4. Planning and Monitoring]]. 
+- ==(Refer to Software Jogger's Chapter 8)== and [The Learning BA Project_4. Planning and Monitoring](<The Learning BA Project_4. Planning and Monitoring.md>). 
 	- This step depends on project types and project characteristics.
 	- The task we need to do at this step are:
 		- **Document our approach to conduct our own business analysis.*==(BA Approach)
